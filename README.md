@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HosseinChoopani
+- 👋 Hi, I’m @HosseinChoopani, master's student in industrial engineering at university of Tehran
 - 👀 I’m interested in Data science & Operational Research 
-- 🌱 I’m currently learning about the Machine Learning algorithms and their applications in business while working on my MSc thesis in industrial engineering
-- 📫 How to reach me h.choopani.a@gmail.com
+- 🌱 I’m currently learning about the Machine Learning algorithms and their applications in business while working on my MSc thesis 
+- 📫 h.choopani.a@gmail.com
 
 <!---
 HosseinChoopani/HosseinChoopani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
