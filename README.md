@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HosseinChoopani, master's student in industrial engineering at university of Tehran, Iran
+- 👋 Hi, I’m @HosseinChoopani, master's student in industrial engineering at the university of Tehran, Iran
 - 👀 I’m interested in Data science & Operational Research 
 - 🌱 I’m currently learning about the Machine Learning algorithms and their applications in business while working on my MSc thesis on pricing
 - 📫 h.choopani.a@gmail.com
